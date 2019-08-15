@@ -1,2 +1,2 @@
 init
-gco issue1
+gco issue1 &feature1
